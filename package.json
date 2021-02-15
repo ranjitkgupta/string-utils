@@ -1,0 +1,23 @@
+{
+  "name": "@ranjitkgupta/string-utils",
+  "version": "1.0.0",
+  "description": "String Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjitkgupta/string-utils.git"
+  },
+  "keywords": [
+    "String",
+    "Utils"
+  ],
+  "author": "ranjitkgupta@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjitkgupta/string-utils/issues"
+  },
+  "homepage": "https://github.com/ranjitkgupta/string-utils#readme"
+}
