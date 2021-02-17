@@ -1,4 +1,4 @@
-export function cleanCsvString(csvString) {
+module.export = function cleanCsvString(csvString) {
     if (csvString != null) {
       return csvString
         ?.replace(/\s/g, '') // Remove blank spaces
