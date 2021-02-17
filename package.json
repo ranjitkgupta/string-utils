@@ -1,6 +1,6 @@
 {
   "name": "@ranjitkgupta/string-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String Utilities",
   "main": "index.js",
   "scripts": {
